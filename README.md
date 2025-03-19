@@ -1,16 +1,9 @@
-# smc
+# dealing
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+A transaction application that helps citizens obtain civil documents, passports, and everything related to civil status, with the assistance of specialized lawyers, as well as track their requests with ease.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Link to Video on Facebook: https://www.facebook.com/share/v/1F7mPDXVpD/ 
